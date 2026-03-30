@@ -57,8 +57,11 @@ TruStock-AI/
 
 *👥 Team*
 
-- Dhruv Syam – Project Lead  
-- [Add Members]
+-> Dhruv Syam – Project Head (Backend developer & AI model)
+-> Sreehari - Frontend UI and AI model
+-> Neelakandan - AI model evaluation and troubleshooting
+-> Pranav - Documentation manager
+-> Abdullah - Dataset manager
 
 ---
 
